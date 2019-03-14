@@ -1,2 +1,9 @@
 # WCF_SoapRest
-Sample of a WCF service implementing both protocols for different calls
+
+Simple WCF service implementing both Rest and Soap protocols for different service calls.
+
+1. IService1
+<img src="image.png" />
+
+2. Web.config
+<img src="image2.png" />
